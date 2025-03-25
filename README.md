@@ -2,7 +2,27 @@
 
 ## Overview
 
-$VLLC is a community-driven memecoin inspired by the global rise of liberal ideas, symbolized by the iconic wig of Argentine president Javier Milei. More than just a token, $VLLC represents a cultural shift: the digital embodiment of a movement pushing for freedom, individual responsibility, and limited government in a world tired of inflation and interventionism.
+$VLLC is not merely a memecoin. It is a symbolic and digital manifestation of a profound philosophical and economic shift that is taking place in our time — a memetic vehicle born from the ideas of individual liberty, spontaneous order, and resistance to the collectivist decay of modern democracies.
+
+At its core, $VLLC represents a community-driven cultural response to the failures of central planning, monetary manipulation, and political parasitism. It arises not from institutional power, but from below — from the voluntary coordination of individuals who are awakening to the destructive nature of fiat inflation, coercive redistribution, and the ever-growing Leviathan of the state.
+
+This token is inspired by the intellectual tradition of the Austrian School of Economics — a lineage that includes Carl Menger, Ludwig von Mises, Friedrich Hayek, and Murray Rothbard. These thinkers revealed that markets emerge organically, that money is discovered — not decreed — and that human freedom is the essential precondition for prosperity.
+
+The visual identity of $VLLC, centered on the **wig**, is not a literal or direct reference to any specific person, public figure, or political party. It is not intended to depict or associate with Javier Milei himself, nor is it authorized, endorsed, or affiliated with him in any way. Instead, **the wig serves as a symbolic expression** — a cultural abstraction representing rebellion against statism, the courage to think differently, and the rise of liberal ideas in a world saturated with centralized control.
+
+As such, the wig becomes a visual shorthand for ideological rupture — for a memetic uprising against decades of economic fallacies and political conformity. Its meaning transcends any individual. It is a metaphor for the liberal renaissance that is sweeping across cultures, borders, and blockchains.
+
+Argentina's current transformation — from chronic inflation to potential stabilization — is being observed globally, not only for its economic implications, but as a case study in the practical application of liberal theory. $VLLC emerges in this context **not to represent Argentina**, nor any government, but to reflect the **ideas behind the change**: the return to sound money, the dismantling of rent-seeking elites, and the embrace of voluntary exchange.
+
+$VLLC does not promise utility, nor does it beg for regulation. It exists as a **purely voluntary instrument**, a digital symbol that captures the essence of the Austrian maxim: **"Laissez-faire, laissez-passer."**
+
+This is not a product to be sold. It is a message to be spread.
+
+It is a token with no issuer, a symbol with no central authority, and an idea with no expiration date.
+
+In a digital world where narratives move faster than reason, and memes reach further than manifestos, $VLLC is our call to arms — humorous in form, serious in content, and unyielding in principle.
+
+**Follow the wig.  
 
 ## Vision
 
@@ -15,7 +35,7 @@ $VLLC exists to show the world the strength of liberal ideas when applied with c
 ## Symbolism
 
 The logo of $VLLC is Milei's wig — not as a meme, but as an icon.  
-A rebellious emblem against the political caste.  
+A rebellious emblem against the political caste.   
 A sign that things **can** change.  
 A reminder that liberalism isn’t dead — it’s just getting started.
 
@@ -50,7 +70,7 @@ You’re free to follow or ignore. That’s the liberal way.
 - Official presale with transparent allocation
 
 **Phase 3: Ecosystem & Expansion**
-- 🌐 Final Phase:
+Final Phase:
 
 Meme & Ideological Ecosystem:
 
