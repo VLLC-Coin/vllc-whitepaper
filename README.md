@@ -74,9 +74,57 @@ Join the growing wave of thinkers, builders, and believers in freedom.
 $VLLC is not just about Argentina.  
 It’s about what happens when liberal values confront global economic decay.  
 It’s about ideas, not noise.  
-It’s about memes with meaning.
 
 **Follow the wig.  
-Follow the wave.  
 $VLLC.**
+
+## Legal Disclaimer
+
+### No Financial Advice
+
+$VLLC is a community-driven, experimental memecoin project. It does **not** constitute an investment, financial product, or offer of any kind. Participation in the $VLLC ecosystem is entirely voluntary and should not be interpreted as financial advice, solicitation, or endorsement of speculative activity.
+
+Anyone interacting with the project does so at their own discretion and assumes full responsibility for their actions. Please consult with a licensed financial advisor before making any financial decisions.
+
+---
+
+### No Affiliation with Public Figures
+
+$VLLC is a symbolic, satirical, and cultural initiative inspired by the global spread of liberal economic ideas. It references the public image of Argentine President Javier Milei solely as an expression of ideological admiration and cultural commentary. 
+
+The project has **no official association** with Javier Milei, his political party, the Argentine government, or any related entities.
+
+The use of the "wig" icon is a **parodic and transformative representation** protected under fair use and international standards of freedom of expression.
+
+---
+
+### Use of Visuals and Content
+
+All visual materials (memes, icons, designs) shared within the $VLLC ecosystem are either:
+
+- Original creations by the community
+- Public domain or open-source
+- Used under fair use doctrine for educational, satirical, and commentary purposes
+
+If you believe any content infringes on intellectual property rights, please contact the team via our official channels for review and removal.
+
+---
+
+### Jurisdiction
+
+This project operates globally on decentralized blockchain networks. However, users are solely responsible for complying with the laws and regulations of their respective jurisdictions before interacting with any digital asset.
+
+---
+
+### Summary
+
+$VLLC is:
+- Not affiliated with any government or public figure
+- Not a financial instrument
+- Not liable for personal losses or misunderstandings
+- A symbolic memetic project built around free expression, decentralization, and liberal ideas
+
+By interacting with this project, you acknowledge and accept these terms.
+
+
 
