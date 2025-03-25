@@ -50,7 +50,7 @@ You’re free to follow or ignore. That’s the liberal way.
 - Official presale with transparent allocation
 
 **Phase 3: Ecosystem & Expansion**
--🌐 Final Phase:
+- 🌐 Final Phase:
 
 Meme & Ideological Ecosystem:
 
@@ -64,7 +64,8 @@ Create a foundation or non-profit that supports real-world liberal causes (optio
 
 Organize a yearly online “Wig Summit” where libertarian communities meet and discuss
 
-🔁 Long-Term purpose: become a case study of how a memecoin can support a real-world ideological shift
+**Long-Term purpose:**
+Become a case study of how a memecoin can support a real-world ideological shift.
 
 ## Tokenomics (Coming Soon)
 
