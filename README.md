@@ -21,10 +21,10 @@ A reminder that liberalism isn’t dead — it’s just getting started.
 
 ## Why $VLLC?
 
-- 📉 Inflation is a global problem.  
-- 🧠 Liberal ideas are providing real solutions.  
-- 🌍 Argentina is becoming a case study in real-time.  
-- 🪙 $VLLC is the memetic vehicle to follow this wave.
+- Inflation is a global problem.  
+- Liberal ideas are providing real solutions.  
+- Argentina is becoming a case study in real-time.  
+- $VLLC is the memetic vehicle to follow this wave.
 
 ## What $VLLC is NOT
 
@@ -56,9 +56,9 @@ You’re free to follow or ignore. That’s the liberal way.
 
 ## Tokenomics (Coming Soon)
 
-- 🔥 Fixed supply with burn mechanics
-- 💸 0% transaction tax — because we walk the liberal talk
-- 💰 Fair and transparent distribution
+- Fixed supply with burn mechanics
+- 0% transaction tax — because we walk the liberal talk
+- Fair and transparent distribution
 
 Details will be published once the smart contract is finalized.
 
@@ -66,7 +66,7 @@ Details will be published once the smart contract is finalized.
 
 Join the growing wave of thinkers, builders, and believers in freedom.
 
-- Twitter (X): [https://x.com/VLLCtoken](https://x.com/VLLCtoken)
+- Twitter (X): [https://x.com/vllccoin](https://x.com/vllccoin)
 - Telegram: [https://t.me/VLLCcommunity](https://t.me/VLLCcommunity)
 
 ## Final Words
